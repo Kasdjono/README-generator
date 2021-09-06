@@ -1,0 +1,24 @@
+{
+  "name": "README-generator",
+  "version": "1.0.0",
+  "description": "allows the user to generate README.md files from their terminal",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kasdjono/README-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kasdjono/README-generator/issues"
+  },
+  "homepage": "https://github.com/Kasdjono/README-generator#readme"
+}
