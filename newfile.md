@@ -1,24 +1,29 @@
 
-## Project Name : awesome-o
+## Project Name : README-generator
 
 ## Link to the working site
 
-    - jflks
+["link to deployed application"](https://github.com/Kasdjono/README-generator) 
 
         
 ## Discription of the application:
 
-    - kjfdjsl
+    - To create a README file using the bash terminal
 
         
 ## The following features have been added to the page:
 
-    - jkfsdjl
+    - Creates working URL, text and image for the README file
+
+
+## Screen shot of working app:
+
+!["screen shot"](./assets/images/imageA.png)
  
         
 ## Test performed on application
 
-    - ajfl
+    - Functional test performed 
             
         
        

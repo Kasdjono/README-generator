@@ -28,11 +28,11 @@ inquirer
             name: 'appFeature',
             message: "Please list all app features.",
         },
-        // {
-        //     type: 'input',
-        //     name: 'badge',
-        //     message: "Enter the file name of the png.",
-        // },
+        {
+            type: 'input',
+            name: 'badge',
+            message: "Enter the file name of the png.",
+        },
         {
             type: 'input',
             name: 'tests',
@@ -42,18 +42,17 @@ inquirer
 
 
 
-
-
     .then((data) => {
         const fileName = `${data.fileName.toLowerCase().split(' ').join('')}.md`;
 
-        const { projName, workingUrl, purpose, appFeature, tests } = data
+        const { projName, workingUrl, purpose, appFeature,badge, tests } = data
+
         const md = `
 ## Project Name : ${projName}
 
 ## Link to the working site
 
-    - ${workingUrl}
+["link to deployed application"](${workingUrl}) 
 
         
 ## Discription of the application:
@@ -64,6 +63,11 @@ inquirer
 ## The following features have been added to the page:
 
     - ${appFeature}
+
+
+## Screen shot of working app:
+
+!["screen shot"](./assets/images/${badge})
  
         
 ## Test performed on application
@@ -99,10 +103,10 @@ SOFTWARE.`
         );
     });
 
-    // ## Screen Shots of App
-    // ```
-    // !["screen shot 1 of website after adjustments"](assets/images/imageA.png)                
-    // ```
+
+
+                   
+  
 
 
 
