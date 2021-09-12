@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-!["screen shot 2 of website after adjustments"](./assets/images/image-2.png)
+!["screen shot 2 of website after adjustments"](./assets/images/image-3.png)
 
 <br/>
 
