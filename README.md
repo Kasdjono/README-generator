@@ -5,7 +5,9 @@
 ## Link to the working site
 <br/>
 
- ["link to deployed application"](https://github.com/Kasdjono/README-generator) 
+ ["link to video demonstration"](https://drive.google.com/file/d/1D0lOqiXflUKVzfMiFTuMDtd0mfaKiM9l/view?usp=sharing)
+
+ ["link to Github repo"](https://github.com/Kasdjono/README-generator)
 <br/>
 
 ## This program will generate a random password based on user specifications
@@ -28,11 +30,9 @@
 <br/>
 <br/>
 
-# Screen Shots of Profile Page
+# Screen Shots of Application
 <br/>
 <br/>
-
-!["screen shot 1 of website after adjustments"](./assets/images/image-1.png)  
 
 !["screen shot 2 of website after adjustments"](./assets/images/image-2.png)
 
