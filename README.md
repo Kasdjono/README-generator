@@ -1,4 +1,4 @@
-# Project Name : password-generator 
+# Project Name : README.md-generator 
 <br/>
 <br/>
 
@@ -10,7 +10,7 @@
  ["link to Github repo"](https://github.com/Kasdjono/README-generator)
 <br/>
 
-## This program will generate a random password based on user specifications
+## This program will generate a README.md file
 <br/>
 <br/>
 

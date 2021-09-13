@@ -8,12 +8,12 @@
         
 ## Discription of the application:
 
-    - Create a README.md file with terminal
+    - to create a readme file with terminal
 
         
 ## The following features have been added to the page:
 
-    - Creates .md file with text/pics/url
+    - create file with text/url/pictures
 
 
 ## Screen shot of working app:
