@@ -50,32 +50,40 @@ inquirer
         const md = `
 ## Project Name : ${projName}
 
+## Table of contents :  
+* [Links](#link)  
+* [Discription](#description)
+* [Features](#features)
+* [ScreenShots](#screenShots)
+* [Test](#test)
+* [Licence](#licence)
+
 ## Link to the working site
 
 ["link to deployed application"](${workingUrl}) 
 
         
-## Discription of the application:
+## Description :
 
     - ${purpose}
 
         
-## The following features have been added to the page:
+## Features :
 
     - ${appFeature}
 
 
-## Screen shot of working app:
+## ScreenShots:
 
 !["screen shot"](./assets/images/${image})
  
         
-## Test performed on application
+## Test :
 
     - ${tests}
             
         
-## Liscence
+## Licence :
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)     
 `
 

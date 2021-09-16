@@ -1,30 +1,38 @@
 
 ## Project Name : README.md Generator
 
+## Table of contents :  
+* [Links](#link)  
+* [Discription](#description)
+* [Features](#features)
+* [ScreenShots](#screenShots)
+* [Test](#test)
+* [Licence](#licence)
+
 ## Link to the working site
 
 ["link to deployed application"](https://github.com/Kasdjono/README-generator) 
 
         
-## Discription of the application:
+## Description :
 
     - to create a readme file with terminal
 
         
-## The following features have been added to the page:
+## Features :
 
     - create file with text/url/pictures
 
 
-## Screen shot of working app:
+## ScreenShots:
 
 !["screen shot"](./assets/images/image-1.png)
  
         
-## Test performed on application
+## Test :
 
     - functional test
             
         
-## Liscence
+## Licence :
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)     
